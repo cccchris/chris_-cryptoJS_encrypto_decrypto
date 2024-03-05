@@ -1,0 +1,20 @@
+{
+  "name": "chris_cryptoJS_encrypto_decrypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cccchris/chris_cryptoJS_encrypto_decrypto.git"
+  },
+  "author": "cccchris",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "picasso-library": "^1.0.1"
+  }
+}
